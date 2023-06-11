@@ -21,7 +21,7 @@
 - 社内向けの音声認識モデル学習用の音声データ収集アプリケーションを開発しました。
 - 全部 TypeScript でフロント、バック(Nest.js)、DB(MySQL, Prisma)を建てました。DB の設計とかも行いました。
 - [AI 学習用音声の収録ウェブアプリケーション制作　〜開発レポート前編〜](https://olaris.jp/posts/WKvv-yyB)
-- [AI 学習用音声の収録ウェブアプリケーション制作　〜開発レポート後編〜  ](https://olaris.jp/posts/Ku4HryXS)
+- [AI 学習用音声の収録ウェブアプリケーション制作　〜開発レポート後編〜](https://olaris.jp/posts/Ku4HryXS)
 
 ### 2022/08 [楽天グループ株式会社](https://corp.rakuten.co.jp/about/) 夏季インターン
 
