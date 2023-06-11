@@ -28,7 +28,7 @@
 - オンラインコミュニケーションを促進させる Chrome 拡張を開発しました。
 - インターン初日にチームで顔合わせして開発しました。
 - Chrome 拡張のフロント部分を担当しました。
-- [楽天の夏インターンに参加したけどめちゃくちゃ良かった - hinagiku](https://hinagiku.vercel.app/posts/rakuten-internship-2021)
+- [楽天の夏インターンに参加したけどめちゃくちゃ良かった | oshanqq dev](https://oshanqq-dev.vercel.app/posts/rakuten-internship)
 
 # 🎓 学歴
 
