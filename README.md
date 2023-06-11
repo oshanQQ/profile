@@ -4,6 +4,7 @@
 
 - [GitHub / oshanQQ (ONOYAMA Shodai)](https://github.com/oshanQQ)
 - [DevelopersIO / おのやん](https://dev.classmethod.jp/author/oshanqq)
+- [[個人ブログ] oshanqq dev](https://oshanqq-dev.vercel.app/)
 - [Twitter / おのやん (@oshanQQ\_)](https://twitter.com/oshanQQ_)
 - [Qiita / oshanQQ](https://qiita.com/oshanQQ)
 - [Zenn / ONOYAMA Shodai さんの記事一覧](https://zenn.dev/oshanqq)
