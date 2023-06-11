@@ -46,7 +46,7 @@
 
 # 💁‍♂️ 登壇
 
-### 2022/08/30 [弊社 LT ver.DEEP ~BEENOS 株式会社 編~](https://techplay.jp/event/867155)
+### 2022/08/30 [弊社 LT ver.DEEP BEENOS 株式会社 編](https://techplay.jp/event/867155)
 
 - [[登壇スライド] 学生なりに考えてみる エンジニアの「志向性」 - Speaker Deck](https://speakerdeck.com/oshanqq/xue-sheng-narinikao-etemiru-enziniano-zhi-xiang-xing)
 
