@@ -63,6 +63,16 @@
 
 - [[登壇スライド] 全く使ったことない技術で プロダクトを作った - Speaker Deck](https://speakerdeck.com/oshanqq/quan-kushi-tutakotonaiji-shu-de-purodakutowozuo-tuta)
 
+# 👥 コミュニティ活動
+
+### フレッシュメン LT
+
+- [運営] [フレッシュメン LT #0 夏祭り](https://connpass.com/event/285559/)
+
+### JAWS FESTA 2023
+
+- [運営] [JAWS Festa 2023](https://jft2023.jaws-ug.jp/)
+
 # 🏆 賞
 
 ### 2022/02 SAGA×Azure ハッカソン 最優秀賞
