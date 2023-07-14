@@ -44,7 +44,7 @@
 - 現在は大学院の授業で使われてるみたいです(すごい！)。
 - [GitHub - oshanQQ/graduation-thesis: 🎓📝 Kubernetes と JupyterHub で構築した GPU クラスタにおける 深層学習モデル学習時の 学習時間予測](https://github.com/oshanQQ/graduation-thesis)
 
-# 💁‍♂️ 登壇
+# 🎤 登壇
 
 ### 2023/07/08 [DevelopersIO 2023 〜GET だけじゃもったいない、PUT して POST する 2 日間〜](https://event.classmethod.jp/developers-io/2023)
 
