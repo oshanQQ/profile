@@ -1,6 +1,6 @@
 # profile
 
-# 🌐 SNS
+# 📱 SNS
 
 - [GitHub / oshanQQ (ONOYAMA Shodai)](https://github.com/oshanQQ)
 - [DevelopersIO / おのやん](https://dev.classmethod.jp/author/oshanqq)
@@ -10,7 +10,7 @@
 - [Zenn / ONOYAMA Shodai さんの記事一覧](https://zenn.dev/oshanqq)
 - [Speaker Deck / ONOYAMA Shodai (@oshanqq)](https://speakerdeck.com/oshanqq)
 
-# 👩‍💻 職歴
+# 💼 職歴
 
 ### 2023/04 ~ 現在 [クラスメソッド株式会社](https://classmethod.jp/) 新卒入社
 
@@ -35,7 +35,7 @@
 - 2023/03 九州工業大学工学部宇宙システム工学科 卒業
 - 2019/04 九州工業大学工学部 5 類 入学
 
-# 📃 卒論
+# 📚 卒論
 
 ### Kubernetes と JupyterHub で構築した GPU クラスタにおける 深層学習モデル学習時の 学習時間予測
 
@@ -63,7 +63,7 @@
 
 - [[登壇スライド] 全く使ったことない技術で プロダクトを作った - Speaker Deck](https://speakerdeck.com/oshanqq/quan-kushi-tutakotonaiji-shu-de-purodakutowozuo-tuta)
 
-# 👥 コミュニティ活動
+# 🤝 コミュニティ活動
 
 ### フレッシュメン LT
 
@@ -87,7 +87,7 @@
 - チーム内でフロントエンドを担当しました。
 - [Open Hack U 2020 Online Vol.5 | Hack U - Yahoo! JAPAN](https://hacku.yahoo.co.jp/hacku2020online5/)
 
-# 🪪 資格
+# 📜 資格
 
 - 2023 年 5 月 AWS Certified Solutions Architect - Associate (SAA)
 - 2023 年 5 月 AWS Certified Cloud Practitioner (CLF)
