@@ -71,11 +71,18 @@
 
 **フレッシュメン LT**
 
-- [運営] [フレッシュメン LT #0 夏祭り](https://connpass.com/event/285559/)
+- 企画の立ち上げ・運営に携わりました。
+- [フレッシュメン LT #0 夏祭り](https://connpass.com/event/285559/)
 
 **JAWS FESTA 2023**
 
-- [運営] [JAWS Festa 2023](https://jft2023.jaws-ug.jp/)
+- 運営の方に参加し、会場の調整・設営に携わりました。
+- [JAWS Festa 2023](https://jft2023.jaws-ug.jp/)
+
+**九州工業大学プログラミング研究会**
+
+- Web アプリ開発や LT 会などを中心に、 4 年間活動しました。
+- [九工大プロ研（@kyutech_proken） / Twitter](https://twitter.com/kyutech_proken)
 
 # 🏆 賞
 
