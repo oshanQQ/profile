@@ -52,7 +52,7 @@
 
 **2023/07/24 [DevelopersIO 2023 福岡](https://classmethod.connpass.com/event/286634/)**
 
-- [[セッションレポート 福岡版] DevelopersIO 2023 福岡「成果報告！~23 年新卒ズがスクラム開発やってみた~」 | DevelopersIO](https://dev.classmethod.jp/articles/devio2023-new-grad-scrum-training-fukuoka/)
+- [[セッションレポート 福岡版] DevelopersIO 2023 福岡「成果報告！〜23 年新卒ズがスクラム開発やってみた〜」 | DevelopersIO](https://dev.classmethod.jp/articles/devio2023-new-grad-scrum-training-fukuoka/)
 
 - [[登壇スライド] 福岡イベント版 成果報告！〜23 年新卒ズがスクラム開発やってみた〜 - Speaker Deck](https://speakerdeck.com/oshanqq/fu-gang-ibentoban-cheng-guo-bao-gao-23nian-xin-zu-zugasukuramukai-fa-yatutemita)
 
@@ -65,7 +65,7 @@
 **2023/07/08 [DevelopersIO 2023 〜GET だけじゃもったいない、PUT して POST する 2 日間〜](https://event.classmethod.jp/developers-io/2023)**
 
 - [[小野山パート]成果報告！〜23 年新卒ズがスクラム開発やってみた〜 - Speaker Deck](https://speakerdeck.com/oshanqq/cheng-guo-bao-gao-23nian-xin-zu-zugasukuramukai-fa-yatutemita)
-- [[セッションレポート] DevelopersIO 2023「成果報告！23 年新卒ズがスクラム開発やってみた」 | DevelopersIO](https://dev.classmethod.jp/articles/devio2023-new-grad-scrum-training/)
+- [[セッションレポート] DevelopersIO 2023「成果報告！〜23 年新卒ズがスクラム開発やってみた〜」 | DevelopersIO](https://dev.classmethod.jp/articles/devio2023-new-grad-scrum-training/)
 
 **2022/08/30 [弊社 LT ver.DEEP BEENOS 株式会社 編](https://techplay.jp/event/867155)**
 
