@@ -50,31 +50,37 @@
 
 # 🎤 登壇
 
-**2023/07/24 [DevelopersIO 2023 福岡](https://classmethod.connpass.com/event/286634/)**
+**2023/07/24 DevelopersIO 2023 福岡**
 
+- [DevelopersIO 2023 福岡](https://classmethod.connpass.com/event/286634/)
 - [[セッションレポート] DevelopersIO 2023 福岡「成果報告！〜23 年新卒ズがスクラム開発やってみた〜」 | DevelopersIO](https://dev.classmethod.jp/articles/devio2023-new-grad-scrum-training-fukuoka/)
 - [[登壇スライド] 福岡イベント版 成果報告！〜23 年新卒ズがスクラム開発やってみた〜 - Speaker Deck](https://speakerdeck.com/oshanqq/fu-gang-ibentoban-cheng-guo-bao-gao-23nian-xin-zu-zugasukuramukai-fa-yatutemita)
 
-**2023/07/23 [JAWS-UG 福岡 #14：11 度目はちょっと濃い目に AWS re:Inforce 2023 を振り返ろう - JAWS-UG 九州](https://jaws-ug-kyushu.doorkeeper.jp/events/157035)**
+**2023/07/23 JAWS-UG 福岡 #14：11 度目はちょっと濃い目に AWS re:Inforce 2023 を振り返ろう - JAWS-UG 九州**
 
+- [JAWS-UG 福岡 #14：11 度目はちょっと濃い目に AWS re:Inforce 2023 を振り返ろう - JAWS-UG 九州](https://jaws-ug-kyushu.doorkeeper.jp/events/157035)
 - [[登壇レポート]「はじめての JAWS-UG はじめての re:Inforce」という内容で JAWS-UG 初登壇しました | DevelopersIO](https://dev.classmethod.jp/articles/first-jaws-first-reinforce/)
 - [[登壇スライド] はじめての JAWS-UG はじめての re:Inforce - Speaker Deck](https://speakerdeck.com/oshanqq/hazimetenojaws-ug-hazimetenore-inforce)
 
-**2023/07/08 [DevelopersIO 2023 〜GET だけじゃもったいない、PUT して POST する 2 日間〜](https://event.classmethod.jp/developers-io/2023)**
+**2023/07/08 DevelopersIO 2023 〜GET だけじゃもったいない、PUT して POST する 2 日間〜**
 
+- [DevelopersIO 2023 〜GET だけじゃもったいない、PUT して POST する 2 日間〜](https://event.classmethod.jp/developers-io/2023)
 - [[セッションレポート] DevelopersIO 2023「成果報告！〜23 年新卒ズがスクラム開発やってみた〜」 | DevelopersIO](https://dev.classmethod.jp/articles/devio2023-new-grad-scrum-training/)
 - [[登壇スライド] 小野山パート:成果報告！〜23 年新卒ズがスクラム開発やってみた〜 - Speaker Deck](https://speakerdeck.com/oshanqq/cheng-guo-bao-gao-23nian-xin-zu-zugasukuramukai-fa-yatutemita)
 
-**2022/08/30 [弊社 LT ver.DEEP BEENOS 株式会社 編](https://techplay.jp/event/867155)**
+**2022/08/30 弊社 LT ver.DEEP BEENOS 株式会社 編**
 
+- [弊社 LT ver.DEEP BEENOS 株式会社 編](https://techplay.jp/event/867155)
 - [[登壇スライド] 学生なりに考えてみる エンジニアの「志向性」 - Speaker Deck](https://speakerdeck.com/oshanqq/xue-sheng-narinikao-etemiru-enziniano-zhi-xiang-xing)
 
-**2021/03/21 [技育祭 2021 学生ライトニングトーク](https://talent.supporterz.jp/geeksai/2021/)**
+**2021/03/21 技育祭 2021 学生ライトニングトーク**
 
+- [技育祭 2021 学生ライトニングトーク](https://talent.supporterz.jp/geeksai/2021/)
 - [[登壇スライド] Svelte for White Day - Speaker Deck](https://speakerdeck.com/oshanqq/svelte-for-white-day)
 
-**2021/01/16 [株式会社 ハックツ エンジニア新年会 LT](https://hackz.connpass.com/event/199547/)**
+**2021/01/16 株式会社 ハックツ エンジニア新年会 LT**
 
+- [株式会社 ハックツ エンジニア新年会 LT](https://hackz.connpass.com/event/199547/)
 - [[登壇スライド] 全く使ったことない技術で プロダクトを作った - Speaker Deck](https://speakerdeck.com/oshanqq/quan-kushi-tutakotonaiji-shu-de-purodakutowozuo-tuta)
 
 # 🤝 コミュニティ活動
