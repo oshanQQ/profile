@@ -34,20 +34,6 @@
 - Chrome 拡張のフロント部分を担当しました。
 - [楽天の夏インターンに参加したけどめちゃくちゃ良かった | oshanqq dev](https://oshanqq-dev.vercel.app/posts/rakuten-internship)
 
-# 🎓 学歴
-
-- 2023/03 九州工業大学工学部宇宙システム工学科 卒業
-- 2019/04 九州工業大学工学部 5 類 入学
-
-# 📚 卒論
-
-**Kubernetes と JupyterHub で構築した GPU クラスタにおける 深層学習モデル学習時の 学習時間予測**
-
-- オンプレ Kubernetes 環境で GPU クラスタを構築しました。
-- クラスタ上に JupyterHub をデプロイして、ブラウザ上で操作できる機械学習環境を整備しました。
-- 現在は大学院の授業で使われてるみたいです(すごい！)。
-- [GitHub - oshanQQ/graduation-thesis: 🎓📝 Kubernetes と JupyterHub で構築した GPU クラスタにおける 深層学習モデル学習時の 学習時間予測](https://github.com/oshanQQ/graduation-thesis)
-
 # 🎤 登壇
 
 **2023/09/01 AWSトレーニング・人材育成ウェビナー 入社研修でAWSトレーニングを活用する方法**
@@ -141,6 +127,20 @@
 - コードを共有できる Twitter x GitHub な SNS アプリを開発しました。
 - チーム内でフロントエンドを担当しました。
 - [Open Hack U 2020 Online Vol.5 | Hack U - Yahoo! JAPAN](https://hacku.yahoo.co.jp/hacku2020online5/)
+
+# 🎓 学歴
+
+- 2023/03 九州工業大学工学部宇宙システム工学科 卒業
+- 2019/04 九州工業大学工学部 5 類 入学
+
+# 📚 卒論
+
+**Kubernetes と JupyterHub で構築した GPU クラスタにおける 深層学習モデル学習時の 学習時間予測**
+
+- オンプレ Kubernetes 環境で GPU クラスタを構築しました。
+- クラスタ上に JupyterHub をデプロイして、ブラウザ上で操作できる機械学習環境を整備しました。
+- 現在は大学院の授業で使われてるみたいです(すごい！)。
+- [GitHub - oshanQQ/graduation-thesis: 🎓📝 Kubernetes と JupyterHub で構築した GPU クラスタにおける 深層学習モデル学習時の 学習時間予測](https://github.com/oshanQQ/graduation-thesis)
 
 # 📜 資格
 
