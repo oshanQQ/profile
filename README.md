@@ -144,6 +144,7 @@
 
 # 📜 資格
 
+- 2023 年 12月 AWS Certified Developer - Associate (DVA)
 - 2023 年 5 月 AWS Certified Solutions Architect - Associate (SAA)
 - 2023 年 5 月 AWS Certified Cloud Practitioner (CLF)
 - 2022 年 12 月 応用情報技術者試験
