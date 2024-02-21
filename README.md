@@ -97,7 +97,7 @@
 
 # 📜 資格
 
-- 2023 年 12月 AWS Certified Sysops Administrator - Associate
+- 2023 年 12月 AWS Certified Sysops Administrator - Associate (SOA)
 - 2023 年 12月 AWS Certified Developer - Associate (DVA)
 - 2023 年 5 月 AWS Certified Solutions Architect - Associate (SAA)
 - 2023 年 5 月 AWS Certified Cloud Practitioner (CLF)
