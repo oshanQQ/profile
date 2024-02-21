@@ -14,11 +14,11 @@
 - [Zenn / ONOYAMA Shodai さんの記事一覧](https://zenn.dev/oshanqq)
 - [Speaker Deck / ONOYAMA Shodai (@oshanqq)](https://speakerdeck.com/oshanqq)
 
-# 💼 職歴
+# 💼 職歴・学歴
 
 **2023/04 ~ 現在 [クラスメソッド株式会社](https://classmethod.jp/) 新卒入社**
 
-- 新卒研修を経て、AWS事業本部コンサルティング部にて勤務しています！🧑‍🎓✏️
+- 新卒研修を経て、AWS事業本部コンサルティング部にて勤務しています。
 
 **2022/02 ~ 2023/03 [アーニー MLG 株式会社](https://ernie.co.jp/) 長期インターン**
 
@@ -34,73 +34,31 @@
 - Chrome 拡張のフロント部分を担当しました。
 - [楽天の夏インターンに参加したけどめちゃくちゃ良かった | oshanqq dev](https://oshanqq-dev.vercel.app/posts/rakuten-internship)
 
+**2023/03 九州工業大学工学部宇宙システム工学科 卒業**
+
+**2019/04 九州工業大学工学部 5 類 入学**
+
 # 🎤 登壇
 
-**2023/09/01 AWSトレーニング・人材育成ウェビナー 入社研修でAWSトレーニングを活用する方法**
-
-「AWSトレーニングのおかげでAWS認定試験に2週連続合格できた話」というタイトルで登壇しました。
-
-- [【9/1（金）】AWSトレーニング・人材育成ウェビナー 入社研修でAWSトレーニングを活用する方法 | DevelopersIO](https://dev.classmethod.jp/news/230901-aws-training-webinar/)
-- [AWSトレーニングのおかげでAWS認定試験に2週連続合格できた話 - Speaker Deck](https://speakerdeck.com/oshanqq/awstoreningunookagedeawsren-ding-shi-yan-ni2zhou-lian-sok-he-ge-dekitahua)
-- [[登壇レポート]「AWSトレーニングのおかげでAWS認定試験に2週連続合格できた話」というタイトルでウェビナー登壇しました | DevelopersIO](https://dev.classmethod.jp/articles/aws-training-2weeks-certified/)
-
-**2023/08/25 フレッシュメンLT #0 夏祭り**
-
-「社会人歴的に最フレッシュなはずなので、新卒で入社してからの5ヶ月間を振り返ってみた」というタイトルで登壇しました。
-
-- [フレッシュメンLT #0 夏祭り - connpass](https://connpass.com/event/285559/)
-- [社会人歴的に最フレッシュなはずなので、新卒で入社してからの5ヶ月間を振り返ってみた - Speaker Deck](https://speakerdeck.com/oshanqq/she-hui-ren-li-de-nizui-huretusiyunahazunanode-xin-zu-deru-she-sitekarano5keyue-jian-wozhen-rifan-tutemita)
-
-**2023/07/24 DevelopersIO 2023 福岡**
-
-「成果報告！〜23 年新卒ズがスクラム開発やってみた〜」というタイトルで登壇しました。
-
-- [DevelopersIO 2023 福岡](https://classmethod.connpass.com/event/286634/)
-- [[登壇スライド] 福岡イベント版 成果報告！〜23 年新卒ズがスクラム開発やってみた〜 - Speaker Deck](https://speakerdeck.com/oshanqq/fu-gang-ibentoban-cheng-guo-bao-gao-23nian-xin-zu-zugasukuramukai-fa-yatutemita)
-- [[セッションレポート] DevelopersIO 2023 福岡「成果報告！〜23 年新卒ズがスクラム開発やってみた〜」 | DevelopersIO](https://dev.classmethod.jp/articles/devio2023-new-grad-scrum-training-fukuoka/)
-
-**2023/07/23 JAWS-UG 福岡 #14：11 度目はちょっと濃い目に AWS re:Inforce 2023 を振り返ろう - JAWS-UG 九州**
-
-「はじめての JAWS-UG はじめての re:Inforce」というタイトルで登壇しました。
-
-- [JAWS-UG 福岡 #14：11 度目はちょっと濃い目に AWS re:Inforce 2023 を振り返ろう - JAWS-UG 九州](https://jaws-ug-kyushu.doorkeeper.jp/events/157035)
-- [[登壇スライド] はじめての JAWS-UG はじめての re:Inforce - Speaker Deck](https://speakerdeck.com/oshanqq/hazimetenojaws-ug-hazimetenore-inforce)
-- [[登壇レポート]「はじめての JAWS-UG はじめての re:Inforce」という内容で JAWS-UG 初登壇しました | DevelopersIO](https://dev.classmethod.jp/articles/first-jaws-first-reinforce/)
-
-**2023/07/08 DevelopersIO 2023 〜GET だけじゃもったいない、PUT して POST する 2 日間〜**
-
-「成果報告！〜23 年新卒ズがスクラム開発やってみた〜」というタイトルで登壇しました。
-
-- [DevelopersIO 2023 〜GET だけじゃもったいない、PUT して POST する 2 日間〜](https://event.classmethod.jp/developers-io/2023)
-- [[登壇スライド] 小野山パート:成果報告！〜23 年新卒ズがスクラム開発やってみた〜 - Speaker Deck](https://speakerdeck.com/oshanqq/cheng-guo-bao-gao-23nian-xin-zu-zugasukuramukai-fa-yatutemita)
-- [[セッションレポート] DevelopersIO 2023「成果報告！〜23 年新卒ズがスクラム開発やってみた〜」 | DevelopersIO](https://dev.classmethod.jp/articles/devio2023-new-grad-scrum-training/)
-
-**2022/08/30 弊社 LT ver.DEEP BEENOS 株式会社 編**
-
-「学生なりに考えてみる エンジニアの「志向性」」というタイトルで登壇しました。
-
-- [弊社 LT ver.DEEP BEENOS 株式会社 編](https://techplay.jp/event/867155)
-- [[登壇スライド] 学生なりに考えてみる エンジニアの「志向性」 - Speaker Deck](https://speakerdeck.com/oshanqq/xue-sheng-narinikao-etemiru-enziniano-zhi-xiang-xing)
-
-**2021/03/21 技育祭 2021 学生ライトニングトーク**
-
-「Svelte for White Day」というタイトルで登壇しました。
-
-- [技育祭 2021 学生ライトニングトーク](https://talent.supporterz.jp/geeksai/2021/)
-- [[登壇スライド] Svelte for White Day - Speaker Deck](https://speakerdeck.com/oshanqq/svelte-for-white-day)
-
-**2021/01/16 株式会社 ハックツ エンジニア新年会 LT**
-
-「全く使ったことない技術で プロダクトを作った」というタイトルで登壇しました。
-
-- [株式会社 ハックツ エンジニア新年会 LT](https://hackz.connpass.com/event/199547/)
-- [[登壇スライド] 全く使ったことない技術で プロダクトを作った - Speaker Deck](https://speakerdeck.com/oshanqq/quan-kushi-tutakotonaiji-shu-de-purodakutowozuo-tuta)
+- [【2024/01/18 2024-01-18 JAWS-UG朝会】#53EC2 Instance Connectを図解してみた](https://speakerdeck.com/oshanqq/ec2-instance-connectwotu-jie-sitemita)
+- [【2023/12/16 JAWS-UG 福岡 #16：12度目はちょっと濃い目にJAWS Festa2023からAWS re:Invent 2023を振り返ろう】 初海外・初ベガス・初re:Inventで新卒が感じたこと](https://speakerdeck.com/oshanqq/chu-hai-wai-chu-begasuchu-re-inventdexin-zu-gagan-zitakoto)
+- [【2023/11/16 クラスメソッド社内 ブログ勉強会登壇資料】エンジニア志望学生が"ブログの会社"に入社してみて思ったこと〜新卒目線のブログ戦略〜](https://speakerdeck.com/oshanqq/enziniazhi-wang-xue-sheng-ga-burogunohui-she-niru-she-sitemitesi-tutakoto-xin-zu-mu-xian-noburoguzhan-lue)
+- [【2023/10/31 JAWS-UG AI/ML #18：AWS AI Week For Developers Recap】Amazon BedrockとAmazon Kendraで数時間でRAGシステムを組んでみた](https://speakerdeck.com/oshanqq/amazon-bedrocktoamazon-kendradeshu-shi-jian-deragsisutemuwozu-ndemita)
+- [【2023/09/01 AWSトレーニング・人材育成ウェビナー 入社研修でAWSトレーニングを活用する方法】AWSトレーニングのおかげでAWS認定試験に2週連続合格できた話](https://speakerdeck.com/oshanqq/awstoreningunookagedeawsren-ding-shi-yan-ni2zhou-lian-sok-he-ge-dekitahua)
+- [【2023/08/25 フレッシュメンLT #0 夏祭り】社会人歴的に最フレッシュなはずなので、新卒で入社してからの5ヶ月間を振り返ってみた](https://speakerdeck.com/oshanqq/she-hui-ren-li-de-nizui-huretusiyunahazunanode-xin-zu-deru-she-sitekarano5keyue-jian-wozhen-rifan-tutemita)
+- [【2023/07/24 DevelopersIO 2023 福岡】成果報告！〜23 年新卒ズがスクラム開発やってみた〜](https://speakerdeck.com/oshanqq/fu-gang-ibentoban-cheng-guo-bao-gao-23nian-xin-zu-zugasukuramukai-fa-yatutemita)
+- [【2023/07/23 JAWS-UG 福岡 #14：11 度目はちょっと濃い目に AWS re:Inforce 2023 を振り返ろう - JAWS-UG 九州】はじめての JAWS-UG はじめての re:Inforce](https://speakerdeck.com/oshanqq/hazimetenojaws-ug-hazimetenore-inforce)
+- [【2023/07/08 DevelopersIO 2023 〜GET だけじゃもったいない、PUT して POST する 2 日間〜】成果報告！〜23 年新卒ズがスクラム開発やってみた〜](https://speakerdeck.com/oshanqq/cheng-guo-bao-gao-23nian-xin-zu-zugasukuramukai-fa-yatutemita)
+- [【2022/08/30 弊社 LT ver.DEEP BEENOS 株式会社 編】学生なりに考えてみる エンジニアの「志向性」](https://speakerdeck.com/oshanqq/xue-sheng-narinikao-etemiru-enziniano-zhi-xiang-xing)
+- [【2021/03/21 技育祭 2021 学生ライトニングトーク】Svelte for White Day](https://speakerdeck.com/oshanqq/svelte-for-white-day)
+- [【2021/01/16 株式会社 ハックツ エンジニア新年会 LT】全く使ったことない技術で プロダクトを作った](https://speakerdeck.com/oshanqq/quan-kushi-tutakotonaiji-shu-de-purodakutowozuo-tuta)
 
 # 🤝 コミュニティ活動
 
 **フレッシュメン LT**
 
-- 企画の立ち上げ・運営に携わりました。
+- 企画の立ち上げ・運営に携わっています。
+- [フレッシュメンLT #1 冬休みの自由研究](https://connpass.com/event/301006/)
 - [フレッシュメン LT #0 夏祭り](https://connpass.com/event/285559/)
 
 **JAWS FESTA 2023**
@@ -128,11 +86,6 @@
 - チーム内でフロントエンドを担当しました。
 - [Open Hack U 2020 Online Vol.5 | Hack U - Yahoo! JAPAN](https://hacku.yahoo.co.jp/hacku2020online5/)
 
-# 🎓 学歴
-
-- 2023/03 九州工業大学工学部宇宙システム工学科 卒業
-- 2019/04 九州工業大学工学部 5 類 入学
-
 # 📚 卒論
 
 **Kubernetes と JupyterHub で構築した GPU クラスタにおける 深層学習モデル学習時の 学習時間予測**
@@ -144,6 +97,7 @@
 
 # 📜 資格
 
+- 2023 年 12月 AWS Certified Sysops Administrator - Associate
 - 2023 年 12月 AWS Certified Developer - Associate (DVA)
 - 2023 年 5 月 AWS Certified Solutions Architect - Associate (SAA)
 - 2023 年 5 月 AWS Certified Cloud Practitioner (CLF)
